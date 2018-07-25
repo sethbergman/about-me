@@ -1,24 +1,21 @@
 {
   "name": "about-me",
   "version": "1.0.0",
-  "description": "About me",
+  "description": "About Seth Bergman",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "test": "sh test/index.test.sh"
   },
   "engines": {
-    "node": ">=8.11.1",
-    "npm": ">=5.8.0"
+    "node": ">=10",
+    "npm": ">=6"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sethbergman/about-me.git"
   },
-  "keywords": [
-    "html5",
-    "express"
-  ],
+  "keywords": ["html5", "express"],
   "author": "Seth Bergman <seth.atxwebs@gmail.com>",
   "license": "UNLICENSED",
   "bugs": {

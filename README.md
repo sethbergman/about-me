@@ -4,7 +4,7 @@ html5 theme with a node / express server
 
 ---
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/about-me.svg)](https://greenkeeper.io/) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/about-me.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/sethbergman/about-me.svg?branch=master)](https://travis-ci.org/sethbergman/about-me)
 
 ## Demo:
@@ -14,23 +14,23 @@ html5 theme with a node / express server
 ### Setup
 
 ```sh
-$ git clone https://github.com/sethbergman/about-me.git && cd about-me
+git clone https://github.com/sethbergman/about-me.git && cd about-me
 ```
 
 ### Install dependencies
 
 ```sh
-$ npm i # or use yarn
-$ yarn
+npm i # or use yarn
+yarn
 ```
 
 ### Start the app
 
 ```sh
-$ npm start
+npm start
 ```
 
-##### Visit [http://0.0.0.0:5000](http://0.0.0.0:5000) in your browser.
+##### Visit <http://0.0.0.0:5000> in your browser.
 
 ### Demo:
 
